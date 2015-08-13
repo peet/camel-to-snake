@@ -1,0 +1,18 @@
+{
+  "name": "camel-to-snake",
+  "version": "1.0.0",
+  "description": "change a string from camelCase to snake_case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peet/camel-to-snake"
+  },
+  "author": "Peet Goddard <npm@peet.me.uk>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.26"
+  }
+}
